@@ -10,7 +10,7 @@ To use front-end Vue.js you should install npm firstly.
 npm install
 ```
 
-then you can run it by suing this command
+then you can run it by using this command
 
 ```bash
 npm run serve
