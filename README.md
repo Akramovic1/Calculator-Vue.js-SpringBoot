@@ -2,6 +2,8 @@
 
 Simple Calculator using vue.js framework and SpringBoot.
 
+![](image.png)
+
 ## Installation
 
 To use front-end Vue.js you should install npm firstly.
