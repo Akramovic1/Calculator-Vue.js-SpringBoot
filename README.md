@@ -1,6 +1,6 @@
 # Calculator-Vue.js-SpringBoot
 
-Simple Calculator using vue.js framework and SpringBoot.
+Simple Calculator using vue.js framework as front-end and SpringBoot as back-end for calculations.
 
 ![](imageRM.PNG)
 
