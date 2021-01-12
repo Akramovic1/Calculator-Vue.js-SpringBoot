@@ -2,7 +2,7 @@
 
 Simple Calculator using vue.js framework and SpringBoot.
 
-![](image.PNG)
+![]()
 
 ## Installation
 
